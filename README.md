@@ -11,3 +11,5 @@ Added image to index.html
 Added <ul> <ol> to bibimbap.html
 Added images to bibimbap.html
 
+Added <ul> <ol> to borscht.html
+Discovered that img tags on Github deployment don't work
